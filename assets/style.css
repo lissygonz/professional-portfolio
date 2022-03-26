@@ -1,14 +1,18 @@
 * {
-    border: 2px solid red;
+    border: 2px solid;
 }
 
 body {
-    background-color: white;
+    background-color: gray;
+}
+
+p{
+    color: antiquewhite;
 }
 
 /* nav bar */
 nav {
-    background-color: #fff;
+    background-color: gray;
 }
 
 ul {
@@ -30,11 +34,35 @@ a {
 .imgSection {
     width: fit-content;
     margin: 20px auto; 
-    
+       
 }
 
 .imgSection img {
-    width: 250px
+    width: 200px;
+    
+}
+
+/*images*/
+
+.firstProject img {
+    height: 300px;
+    width: auto;
+    padding: 2px;
+    
+}
+
+.section img{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;    
+
+}
+
+.div img{
+    display: inline-block;
+    margin: auto;
+    width: 100px;
+
 }
 
 /*for the titles to section off*/

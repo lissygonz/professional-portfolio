@@ -1,0 +1,53 @@
+* {
+    border: 2px solid red;
+}
+
+body {
+    background-color: white;
+}
+nav {
+    background-color: #fff;
+}
+
+ul {
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+    text-align: right;
+    margin: 0 0 0 auto;
+    padding: 0 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.imgSection {
+    width: fit-content;
+    margin: 20px auto; 
+    
+}
+
+.imgSection img {
+    width: 250px
+}
+
+
+.dividers{
+    font-size: 30px
+}
+
+
+.workTitles{
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
+.apps img {
+height: 520px;
+}

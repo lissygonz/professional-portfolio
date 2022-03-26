@@ -5,6 +5,8 @@
 body {
     background-color: white;
 }
+
+/* nav bar */
 nav {
     background-color: #fff;
 }
@@ -24,7 +26,7 @@ a {
     color: black;
     text-decoration: none;
 }
-
+/*for my avatar*/
 .imgSection {
     width: fit-content;
     margin: 20px auto; 
@@ -35,19 +37,16 @@ a {
     width: 250px
 }
 
-
+/*for the titles to section off*/
 .dividers{
     font-size: 30px
 }
 
-
-.workTitles{
+/* for the title of my projects*/
+.eachTitles{
     font-size: small;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 
 
-.apps img {
-height: 520px;
-}

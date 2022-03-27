@@ -8,7 +8,7 @@ This portfolio provides an insight of the projects I worked on during my time in
 * CSS
 
 ## Website
-https://github.com/lissygonz/my-first-project
+https://lissygonz.github.io/professional-portfolio/
 
 ## Contribution
 Lisette Gonzalez
